@@ -11,7 +11,7 @@ This particular conversation began following a presentation from [John Willis](h
 # How Can I Participate
 
 * Join the [discussion and planning](https://groups.google.com/forum/#!forum/well-being-in-tech-conf-disucss) Google Group. 
-* Join the Slack channel to chat real-time. (TODO: Create Slack channel and link here.)
+* Join the [Slack channel](https://wbitconf.slack.com/) to chat real-time.
 * Review the notes from the [first brainstorming/planning session](https://github.com/lhawthorn/Well-BeinginTechConf/wiki/Notes:-Initial-Planning-Session,-26-June-2015-at-DevOpsDays-Amsterdam). 
 * Contribute to the [project wiki](https://github.com/lhawthorn/Well-BeinginTechConf/wiki). 
 * Create your own event in a city near you. Everyone participating in this project is here to help!
@@ -37,7 +37,7 @@ The Well-Being in Tech Conference encourages collaboration, respects differences
 
 <strong>Participants in the Well-Being in Tech Conference project agree to abide by this code of conduct.</strong>
 
-In the event that you are experiencing harassment or behavior from another participant that violates this project code of conduct, please file an issue in the repo and it will be addressed by the community members. In the event that you are uncomfortable reporting a code of conduct violaton in public, please contact the moderators of the Well-Being in Tech Conference planning and discussion email list for assistance. We are here to ensure that you have a positive, welcoming and useful experience as a participant in this project. (TODO: Link to moderator contact address in this sentence once Google Group has been created and linked above.)
+In the event that you are experiencing harassment or behavior from another participant that violates this project code of conduct, please file an issue in the repo and it will be addressed by the community members. In the event that you are uncomfortable reporting a code of conduct violaton in public, please contact the moderators of the [Well-Being in Tech Conference planning and discussion Google Group](https://groups.google.com/forum/#!forum/well-being-in-tech-conf-disucss) for assistance or ask for help from one of the moderators in our [Slack channel](https://wbitconf.slack.com/). We are here to ensure that you have a positive, welcoming and useful experience as a participant in this project. 
 
 Any participant found to be engaging in harassment or other behavior that harms the well-being of this project or its participants will be asked to leave. This will include removal from the project mailing lists and this project space on GitHub, including its issues list and wiki space.
 
