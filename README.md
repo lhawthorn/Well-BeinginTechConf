@@ -12,8 +12,8 @@ This particular conversation began following a presentation from [John Willis](h
 
 * Join the discussion and planning mailing list. (TODO: Create Google Group and link here.)
 * Join the Slack channel to chat real-time. (TODO: Create Slack channel and link here.)
-* Review the notes from the first brainstorming/planning session. (TODO: Add notes to this repo and link here.)
-* Contribute to the project wiki. (TODO: Enable wiki for this repo and link here.)
+* Review the notes from the [first brainstorming/planning session](https://github.com/lhawthorn/Well-BeinginTechConf/wiki/Notes:-Initial-Planning-Session,-26-June-2015-at-DevOpsDays-Amsterdam). 
+* Contribute to the [project wiki](https://github.com/lhawthorn/Well-BeinginTechConf/wiki). 
 * Create your own event in a city near you. Everyone participating in this project is here to help!
 
 # This Project Operates Under a Code of Conduct
