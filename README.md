@@ -10,7 +10,7 @@ This particular conversation began following a presentation from [John Willis](h
 
 # How Can I Participate
 
-* Join the discussion and planning mailing list. (TODO: Create Google Group and link here.)
+* Join the [discussion and planning](https://groups.google.com/forum/#!forum/well-being-in-tech-conf-disucss) Google Group. 
 * Join the Slack channel to chat real-time. (TODO: Create Slack channel and link here.)
 * Review the notes from the [first brainstorming/planning session](https://github.com/lhawthorn/Well-BeinginTechConf/wiki/Notes:-Initial-Planning-Session,-26-June-2015-at-DevOpsDays-Amsterdam). 
 * Contribute to the [project wiki](https://github.com/lhawthorn/Well-BeinginTechConf/wiki). 
